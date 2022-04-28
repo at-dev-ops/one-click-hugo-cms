@@ -11,9 +11,9 @@ intro:
       independent farmers and farm cooperatives. We’re proud to offer a variety
       of coffee beans grown 
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/datacenter1.svg
     text: Totam delectus eum animi et eius aut et harum. Libero nisi quia asperiores natus maiores. Reprehenderit voluptatem harum rerum incidunt commodi voluptas. Tempore voluptatum est soluta non ut dolor placeat. Ipsam dignissimos est ducimus possimus. 
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/datacenter2.svg
     text: Quibusdam et sint molestiae atque voluptatem. Impedit et autem ducimus aut repellat. Asperiores aut maxime reiciendis qui eum tempora dolorem vero. Voluptatem nulla autem dolor ullam molestias nobis laudantium illo.
 values:
   heading: Our values
