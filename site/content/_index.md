@@ -3,7 +3,7 @@ title: Valor Mission Critical 2
 subtitle: Building Data Centers Fast and On Time 2
 image: img/valorlogocrop.png
 blurb:
-  heading: Why Valor?
+  heading: Why Valor Mission Critical?
   text: Valor builds data centers fast, on time, and on budget.
 intro:
   heading: What we offer
