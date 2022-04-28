@@ -1,5 +1,5 @@
 ---
-title: Valor Mission Critical
+title: Valor Mission Critical 2
 subtitle: Building Data Centers Fast and On Time
 image: img/valorlogocrop.png
 blurb:
