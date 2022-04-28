@@ -1,6 +1,6 @@
 ---
 title: Valor Mission Critical 2
-subtitle: Building Data Centers Fast and On Time
+subtitle: Building Data Centers Fast and On Time 2
 image: img/valorlogocrop.png
 blurb:
   heading: Why Kaldi?
