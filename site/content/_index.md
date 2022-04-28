@@ -1,12 +1,10 @@
 ---
-title: Valor Mission Critical 2
-subtitle: Building Data Centers Fast and On Time 2
+title: Valor Mission Critical 
+subtitle: Building Data Centers Fast and On Time 
 image: img/valorlogocrop.png
 blurb:
-  heading: Why Valor Mission Critical
-  text: Valor builds data centers fast, on time, and on budget. We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown 
+  heading: Why Valor 
+  text: Valor builds data centers fast, on time, and on budget. Totam delectus eum animi et eius aut et harum. Libero nisi quia asperiores natus maiores. Reprehenderit voluptatem harum rerum incidunt commodi voluptas. Tempore voluptatum est soluta non ut dolor placeat. Ipsam dignissimos est ducimus possimus. 
 intro:
   heading: What we offer
   text: Valor offers best in class data center construction.  We sell green and roasted coffee beans that are sourced directly from
@@ -14,20 +12,10 @@ intro:
       of coffee beans grown 
 products:
   - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: Totam delectus eum animi et eius aut et harum. Libero nisi quia asperiores natus maiores. Reprehenderit voluptatem harum rerum incidunt commodi voluptas. Tempore voluptatum est soluta non ut dolor placeat. Ipsam dignissimos est ducimus possimus. 
   - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    text: Quibusdam et sint molestiae atque voluptatem. Impedit et autem ducimus aut repellat. Asperiores aut maxime reiciendis qui eum tempora dolorem vero. Voluptatem nulla autem dolor ullam molestias nobis laudantium illo.
 values:
   heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: Totam delectus eum animi et eius aut et harum. Libero nisi quia asperiores natus maiores. Reprehenderit voluptatem harum rerum incidunt commodi voluptas. Tempore voluptatum est soluta non ut dolor placeat. Ipsam dignissimos est ducimus possimus. 
 ---
