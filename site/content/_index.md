@@ -3,11 +3,15 @@ title: Valor Mission Critical 2
 subtitle: Building Data Centers Fast and On Time 2
 image: img/valorlogocrop.png
 blurb:
-  heading: Why Valor Mission Critical?
-  text: Valor builds data centers fast, on time, and on budget.
+  heading: Why Valor Mission Critical
+  text: Valor builds data centers fast, on time, and on budget. We sell green and roasted coffee beans that are sourced directly from
+      independent farmers and farm cooperatives. We’re proud to offer a variety
+      of coffee beans grown 
 intro:
   heading: What we offer
-  text: Valor offers best in class data center construction.
+  text: Valor offers best in class data center construction.  We sell green and roasted coffee beans that are sourced directly from
+      independent farmers and farm cooperatives. We’re proud to offer a variety
+      of coffee beans grown 
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
